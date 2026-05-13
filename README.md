@@ -44,4 +44,9 @@ Missing Word Prompting:
 
 OUTPUT:
 
+[prompt_examples_set_2.pdf](https://github.com/user-attachments/files/27692239/prompt_examples_set_2.pdf)
+
+
 RESULT: 
+
+Thus ,Exploring different types of prompts was done
